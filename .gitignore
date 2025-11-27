@@ -667,4 +667,4 @@ tags
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,vim,python
 
 #config file
-./config.ini
+config.ini
